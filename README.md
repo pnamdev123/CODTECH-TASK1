@@ -1,4 +1,4 @@
-Name:Prashant Namdev
+Name: Prashant Namdev
 
 Company: CODTECH IT SOLUTIONS
 
@@ -6,7 +6,7 @@ ID: CT08DS273
 
 Domain: EMBEDDED SYSTEMS
 Duration:  DECEMBER 5th, 2024 to JANUARY 5th, 2025
-Mentor:Neela santhosh kumar
+Mentor: Neela santhosh kumar
 
 Overview of the Project
 The project involves controlling a basic electronic component, an LED, using the Arduino platform. The objective of this task is to learn and understand how microcontrollers, specifically Arduino, can be used to perform simple control operations like blinking an LED. The project serves as a foundational step towards more advanced embedded systems applications.
